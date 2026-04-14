@@ -1,20 +1,26 @@
-Projeto com PIC – [COMUNICAÇÃO SERIAL]
+Comunicação Serial com PIC
 
 Descrição:
-Projeto desenvolvido com microcontrolador PIC utilizando MikroC, com foco em controle e processamento de sinais.
+Este projeto consiste na implementação de comunicação serial utilizando microcontrolador PIC, desenvolvido em linguagem C com MikroC.
 
-Tecnologias:
+Objetivo:
+Demonstrar a transmissão e recepção de dados entre o microcontrolador e dispositivos externos através de comunicação serial (UART).
+
+Tecnologias Utilizadas:
 MikroC
 Microcontrolador PIC
+Comunicação UART
 
-Funcionalidades:
-Processamento de entradas
-Controle de saídas
-Implementação de lógica embarcada
+Funcionamento:
+Inicialização da comunicação serial
+Envio de dados via UART
+Recepção de dados
+Processamento das informações recebidas
 
-Testes:
-Validação funcional
-Simulação de comportamento
+Testes Realizados:
+Validação da transmissão de dados
+Testes de recepção serial
+Simulação de comunicação entre dispositivos
 
 Resultado:
-Sistema funcional com comportamento estável e confiável.
+O sistema apresentou comunicação estável, com envio e recepção de dados funcionando corretamente.
